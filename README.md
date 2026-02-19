@@ -33,7 +33,7 @@ which is necessary for continuous integration (CI).
 
 ### Deploy with Vercel
 
- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/PublicAffairs/openai-gemini&repository-name=my-openai-gemini)
+ [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/pscj/openai-gemini/&repository-name=my-openai-gemini)
 - Alternatively can be deployed with [cli](https://vercel.com/docs/cli):
   `vercel deploy`
 - Serve locally: `vercel dev`
